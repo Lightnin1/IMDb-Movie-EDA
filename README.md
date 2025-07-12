@@ -11,14 +11,6 @@ This mini-project is an interactive data visualization dashboard built using IMD
 - Duration vs Rating
 - Rating by Certificate
 
-## 🚀 How to Run
-1. Clone the repo:  
-   `git clone https://github.com/yourusername/imdb-dashboard.git`
-2. Install requirements:  
-   `pip install -r requirements.txt`
-3. Run the notebook:  
-   `jupyter notebook notebooks/01_exploration.ipynb`
-
 ## 📦 Requirements
 ```bash
 pandas
